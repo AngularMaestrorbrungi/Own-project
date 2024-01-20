@@ -8,15 +8,14 @@ This Angular project focuses on implementing a comprehensive user authentication
 
 Features
 User Authentication:
+1. Secure user login functionality.
+2. User signup with email verification using OTP.
 
-Secure user login functionality.
-User signup with email verification using OTP.
 Profile Management:
+1. Efficiently manage user profiles.
+2. Upload and update user profile photos.
 
-Efficiently manage user profiles.
-Upload and update user profile photos.
 Data Storage:
-
 Utilizes a JSON Server to store user information.
 Ensures data integrity and accessibility.
 Technologies Used
@@ -26,12 +25,6 @@ CSS
 TypeScript
 JSON Server
 Getting Started
-Clone the Repository:
-
-git clone https://github.com/your-username/your-repo.git
-Install Dependencies:
-
-
 
 npm install
 Run the Application:
