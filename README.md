@@ -1,4 +1,5 @@
 # Own-project
+IN MASTER BRANCH THERE IS CODE
 Angular (Frontend-Backend)Login,Signup,Authentication Otp,Uploading photo  and storing information in Json Server.(Angular 14, HTML,CSS,JSON,TS)
 
 
